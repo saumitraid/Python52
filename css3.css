@@ -1,0 +1,18 @@
+#dv1{
+    width: 900px;
+    height: 250px;
+    border: 2px solid red;
+}
+#dv2{
+    width: 300px;
+    height: 248px;
+    background-color: aliceblue;
+}
+.text-body{
+    margin: 0;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: justify;
+}
